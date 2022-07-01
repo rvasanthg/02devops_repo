@@ -1,0 +1,5 @@
+stage 
+[A[C[C[C[C[C1
+stage2
+stage3
+stage4
